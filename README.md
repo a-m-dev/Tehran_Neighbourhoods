@@ -12,7 +12,7 @@ this file will provide you an Array of Objects that each one includes JUST distr
 ```
 const neighbourhoods = [
   ... someData
-  { district = 5 , name='فردوس' } // example line line of returned data
+  { district = 5 , name='فردوس' } // example line line of given data
   ... someMoreData
 ]
 ```

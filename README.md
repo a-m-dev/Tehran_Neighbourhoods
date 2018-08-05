@@ -5,12 +5,23 @@ Simple Js Mock Data Api for Tehran Neighbourhoods
 
 
 
-## what it is?
-this file will provide you an Array of Objects that each one includes JUST district and name of the Tehran Neighbourhoods, this file is returns a promise that you can use it in your React or any other Javascript based Projects. Enjoy it 
+## what it this?
+this file will provide you an Array of Objects that each one includes **name** , **district** , **longitude** , **latitude** and finally **prefered zoom level** of the Tehran Neighbourhoods, this file is returns a promise that you can use it in your React or any other Javascript based Projects. Enjoy it 
 
 
 
-## Data shape
+## Data shape for fullDetailed.js file
+```
+const neighbourhoods = [
+  ... someData
+  { district:1, name:'اقدسیه' , lat: '51.4821938', lng: '35.7940794', d_zoom: '16' }, // example line line of given data
+  ... someMoreData
+]
+```
+
+------------------------------------------------------
+
+## Data shape for neighbourhoods.js file
 ```
 const neighbourhoods = [
   ... someData

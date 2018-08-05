@@ -33,5 +33,5 @@ const neighbourhoods = [
 if you miss some place on mock api, please create an issue for that and give mw the cordinates of that place with the name , or fork it and notify me by your changes to merge the main file.
 
 
-Enjoy it!
-Free for ever!
+Enjoy it!<br/>
+**Free for ever!**

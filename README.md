@@ -14,7 +14,7 @@ this file will provide you an Array of Objects that each one includes **name** ,
 ```
 const neighbourhoods = [
   ... someData
-  { district:1, name:'اقدسیه' , lat: '51.4821938', lng: '35.7940794', d_zoom: '16' }, // example line line of given data
+  { district:1, name:'اقدسیه' , lat: '51.4821938', lng: '35.7940794', d_zoom: '16' },
   ... someMoreData
 ]
 ```
@@ -25,7 +25,7 @@ const neighbourhoods = [
 ```
 const neighbourhoods = [
   ... someData
-  { district: 5 , name:'فردوس' } // example line line of given data
+  { district: 5 , name:'فردوس' }
   ... someMoreData
 ]
 ```

@@ -30,7 +30,11 @@ const neighbourhoods = [
 ]
 ```
 
-if you miss some place on mock api, please create an issue for that and give mw the cordinates of that place with the name , or fork it and notify me by your changes to merge the main file.
+if you miss some place on mock api, please create an issue for that and give me the cordinates of that place with the name , or fork it and notify me by your changes to merge to the main file.
+
+
+how to get location???
+-----
 
 
 Enjoy it!<br/>

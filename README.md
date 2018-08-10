@@ -48,7 +48,7 @@ https://www.google.com/maps/place/Tajrish/@35.8046536,51.4313206,17z/data=!3m1!4
 * (8) => last digit `17z` is the zoom level that you currently looking at map
 * (9) => easy peasy
 
-that is what i basically does for all location , nothing fancy and as working with locations some of them is not exactly matching the neighbourhoods , but as i said some of them, although it works find if you just use those locations for centering that map and use your percise locations lat and lng for your markers, just dont trust on those lat and lng's for putting markers on your map. ( i will fix those as times goes on by the way... )
+that was what i basically did for all of those location , nothing fancy and as working with locations some of them is not exactly matching the neighbourhoods, but as i said some of them, although it works fine if you just use those locations for centering the map and use your percise locations lat and lng for your markers, just dont trust on those lat and lng's for putting markers on your map. ( i will fix those locations as times goes on by the way... )
 
 
 Enjoy it!<br/>

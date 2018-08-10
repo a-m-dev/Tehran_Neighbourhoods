@@ -33,7 +33,7 @@ const neighbourhoods = [
 if you miss some place on mock api, please create an issue for that and give me the cordinates of that place with the name , or fork it and notify me by your changes to merge to the main file.
 
 
-#How to get location???
+## How to get location???
 -----
 * (1) => open google map
 * (2) => search for a place for example the term 'تجریش'

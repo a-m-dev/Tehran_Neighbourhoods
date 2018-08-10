@@ -44,7 +44,7 @@ https://www.google.com/maps/place/Tajrish/@35.8046536,51.4313206,17z/data=!3m1!4
 * (4) => could you find the cordinates ???
 * (5) => that is this part: `@35.8046536,51.4313206,17z`
 * (6) => first digit `35.8046536` is i guess longitude 
-* (7) => second digit `51.4313206` m is i guess latitude
+* (7) => second digit `51.4313206` is i guess latitude
 * (8) => last digit `17z` is the zoom level that you currently looking at map
 * (9) => easy peasy
 

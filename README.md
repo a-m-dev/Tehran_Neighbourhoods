@@ -38,9 +38,9 @@ Dow to get location???
 * (1) => open google map
 * (2) => search for a place for example the term 'تجریش'
 * (3) => on the address bar google will give you this link
-```
+`
 https://www.google.com/maps/place/Tajrish/@35.8046536,51.4313206,17z/data=!3m1!4b1!4m5!3m4!1s0x3f8e05e3ccd6da15:0x6db7ae606c32cce9!8m2!3d35.8046493!4d51.4335093
-```
+`
 * (4) => could you find the cordinates ???
 * (5) => that is this part: `@35.8046536,51.4313206,17z`
 * (6) => first digit `35.8046536` is i guess longitude 
